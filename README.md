@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://ruttie-d.github.io/frontend-app/]( https://ruttie-d.github.io/frontend-app/)
+[https://nexaurio.github.io/Frontend-app-HackerU/]( https://nexaurio.github.io/Frontend-app-HackerU/)
 
   
   
